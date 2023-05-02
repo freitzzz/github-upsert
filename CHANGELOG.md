@@ -1,5 +1,11 @@
 # test-release-changeset
 
+## 0.0.3
+
+### Patch Changes
+
+- ca0cc96: test
+
 ## 0.0.2
 
 ### Patch Changes
