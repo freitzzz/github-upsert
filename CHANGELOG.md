@@ -1,5 +1,11 @@
 # test-release-changeset
 
+## 0.0.8
+
+### Patch Changes
+
+- ae753cb: test 8
+
 ## 0.0.7
 
 ### Patch Changes
