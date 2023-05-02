@@ -1,5 +1,11 @@
 # test-release-changeset
 
+## 0.0.6
+
+### Patch Changes
+
+- 3f88d9e: test 6
+
 ## 0.0.5
 
 ### Patch Changes
