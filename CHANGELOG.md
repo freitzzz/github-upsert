@@ -1,5 +1,11 @@
 # test-release-changeset
 
+## 0.0.7
+
+### Patch Changes
+
+- 1705249: test 7
+
 ## 0.0.6
 
 ### Patch Changes
