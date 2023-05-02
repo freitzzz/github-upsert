@@ -10,5 +10,5 @@ export type GithubFile = {
 
 export type File = {
 	data: Uint8Array;
-	a?: string,
+	a?: string;
 };
