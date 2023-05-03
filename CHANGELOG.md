@@ -1,5 +1,11 @@
 # test-release-changeset
 
+## 0.0.11
+
+### Patch Changes
+
+- 0dc7809: test 11
+
 ## 0.0.10
 
 ### Patch Changes
