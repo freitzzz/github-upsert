@@ -1,5 +1,11 @@
 # test-release-changeset
 
+## 0.0.10
+
+### Patch Changes
+
+- 400606b: test 10
+
 ## 0.0.9
 
 ### Patch Changes
