@@ -1,5 +1,11 @@
 # test-release-changeset
 
+## 0.0.12
+
+### Patch Changes
+
+- 4da9624: test 12
+
 ## 0.0.11
 
 ### Patch Changes
