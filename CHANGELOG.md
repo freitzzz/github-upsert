@@ -1,5 +1,11 @@
 # test-release-changeset
 
+## 0.0.9
+
+### Patch Changes
+
+- f11a4b2: test 9
+
 ## 0.0.8
 
 ### Patch Changes
