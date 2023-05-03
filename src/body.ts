@@ -14,6 +14,8 @@ export function uploadFileBody(data: Uint8Array, ref?: string, sha?: string) {
 		sha: sha
 	};
 
+	console.log('yay')
+
 	if (!body.sha) {
 		delete body.sha;
 	}
